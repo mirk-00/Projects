@@ -12,4 +12,4 @@ The main script is `clustering.ipynb` that was initially part of my Master thesi
 
 #### NB
 All figures are natively interactive but in order to show them on github had to be rendered as .png . 
-To reset the interactivity each 'png' must be deleted from the code.
+To reset the interactivity each 'png' string must be deleted from the code.
