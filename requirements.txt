@@ -1,0 +1,6 @@
+dash==2.6.1
+dash_bootstrap_components==1.2.1
+dash_dangerously_set_inner_html==0.0.2
+matplotlib==3.5.3
+numpy==1.23.2
+plotly==5.10.0
