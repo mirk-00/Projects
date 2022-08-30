@@ -11,4 +11,4 @@ The main script is `clustering.ipynb` that was initially part of my Master thesi
 	* `fitness_landscape.ipynb`: plots simple fitness landscapes (2D and 3D) starting from known relative fitness values set by the user. Also shows the quiver plot for the 3D curve.
 
 ### **NB**
-Notebooks are full of interactive figures so it's best to download and open them with the usual notebook editor so that widget saved state will become visible.
+Notebooks are full of *interactive figures*: it's best to download and open them with the usual notebook editor so that widget saved state will become visible.
